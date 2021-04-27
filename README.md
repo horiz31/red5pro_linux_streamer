@@ -1,19 +1,4 @@
-<h3 align="center">
-  <img src="assets/red5pro_logo.png" alt="Red5 Pro Logo" />
-</h3>
-<p align="center">
-  <a href="#about">about</a> &bull;
-  <a href="#requirements">requirements</a> &bull;
-  <a href="#configuration">configuration</a> &bull;
-  <a href="#building">building</a> &bull;
-  <a href="#examples">examples</a>
-</p>
-
-> **NOTE:** The Red5 Pro Linux SDK is currently in **BETA**.
-
-# Red5 Pro Linux Testbed
-
-This repository contains examples used in testing Red5 Pro Linux SDK. [https://www.red5pro.com](https://www.red5pro.com)
+# Red5pro streamer
 
 # About
 
